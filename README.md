@@ -72,4 +72,4 @@ Published financial statements of Beximco and Square, 2021 to 2025. [Add links t
 ##AI Agent: Claude has been used as primary agent to support the overall procedures
 
 ## About
-Built by [Joy Denish Rodrigues], an accounting student learning data analytics. [LinkedIn link]
+Built by Joy Denish Rodrigues, an accounting student learning data analytics. [LinkedIn link](https://www.linkedin.com/posts/joy-rodrigues-_beximco-vs-square-five-years-of-financials-ugcPost-7519765718058328064-TnOq/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7519765721153835008&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE)
