@@ -32,7 +32,7 @@ Which of the two companies is financially stronger, and what drives the differen
 | Verdict | Summary table and the answer to the question |
 | Notes | Data, definitions, caveats |
 
-![Dashboard pages](Screenshot/)
+[Dashboard pages](Screenshot/)
 
 ## How it was built
 1. **Data preparation:** converted the financial statements from PDF to Excel, then recalculated every subtotal and total across all sheets. This found missing subtotals and blank lines, which were fixed and documented.
