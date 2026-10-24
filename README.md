@@ -55,8 +55,8 @@ Net Margin % = DIVIDE([Net Profit], [Revenue])
 ## Repository contents
 | File | Description |
 |---|---|
-| `beximco-vs-square-dashboard.pbix` | The Power BI report |
-| `dashboard.pdf` | PDF export of all pages |
+| `Square_Beximco_Dashboard.pbix` | The Power BI report |
+| `Square_Beximco_Dashboard.pdf` | PDF export of all pages |
 | `Final_combined_statements_checked.xlsx` | Statements after reconciliation checks |
 | `Tidy_financial_data.xlsx` | The tidy table loaded into Power BI |
 | `Pharma_Comparison_Theme.json` | Custom Power BI theme |
