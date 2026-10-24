@@ -57,9 +57,6 @@ Net Margin % = DIVIDE([Net Profit], [Revenue])
 |---|---|
 | `Square_Beximco_Dashboard.pbix` | The Power BI report |
 | `Square_Beximco_Dashboard.pdf` | PDF export of all pages |
-| `Final_combined_statements_checked.xlsx` | Statements after reconciliation checks |
-| `Tidy_financial_data.xlsx` | The tidy table loaded into Power BI |
-| `Pharma_Comparison_Theme.json` | Custom Power BI theme |
 
 To explore it, open the `.pbix` file in Power BI Desktop (free).
 
@@ -72,6 +69,7 @@ To explore it, open the `.pbix` file in Power BI Desktop (free).
 
 ## Source
 Published financial statements of Beximco and Square, 2021 to 2025. [Add links to where you downloaded them.]
+##AI Agent: Claude has been used as primary agent to support the overall procedures
 
 ## About
-Built by [your name], an accounting student learning data analytics. [LinkedIn link]
+Built by [Joy Denish Rodrigues], an accounting student learning data analytics. [LinkedIn link]
